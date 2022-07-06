@@ -1,0 +1,22 @@
+{
+  "name": "basic-node-server",
+  "version": "1.0.1",
+  "description": "for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "basic",
+    "node",
+    "js"
+  ],
+  "author": "https://instagram.com/ui.bene",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "rupiah-format": "^1.0.0"
+  }
+}
